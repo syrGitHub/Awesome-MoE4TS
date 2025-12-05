@@ -59,9 +59,9 @@ We provide a unified taxonomy of MoE4TS that consists of two major dimensions. T
 - [2025-12-05] 📮 We have released this repository that collects the resources related to MoE for time series analysis (MoE4TS). We will keep updating this repository, and welcome to **STAR🌟** and **WATCH** to keep track of it.
 
 ## 🔭 Table of Contents
-- [Awesome-MoE4TS](#awesome-MoE4ts)
-  - [News](#news)
-  - [Collection of Papers](#collection-of-papers)
+- [Awesome-MoE4TS](#Awesome-MoE4ts)
+  - [News](#News)
+  - [Collection of Papers](#Collection-of-Papers)
     - [Gating Strategy](#Gating-Strategy)
         - [Ungated Models](#Ungated-Models)
         - [Dense-gated Models](#Dense-gated-Models)
