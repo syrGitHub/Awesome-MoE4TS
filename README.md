@@ -92,23 +92,23 @@ We provide a unified taxonomy of MoE4TS that consists of two major dimensions. T
 
 | Title | Venue   | Month   | Code |
 | ------- | ------- | ------- | ------- |
+|MoE-KAN [Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions](https://arxiv.org/pdf/2409.03282) | Arxiv | 2024.09 | None |
+|STGCN-MoE [Mixture of Experts based Model Integration for Traffic State Prediction](https://www.ece.nus.edu.sg/stfpage/eletck/papers/ChattoTham-IEEE-VTC-Spring-2022.pdf) | VTC | 2022 | None |
+|MoE-Traffic [Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions](https://arxiv.org/pdf/2409.03282) | Arxiv | 2024.09 | None|
+|TSEPMoE [Time Series-Based Electric Load Forecasting with Mixture of Expert System](https://ieeexplore.ieee.org/abstract/document/10277743) | ICHCI | 2023 | None |
+|IMMOE [Improved multi-gate mixture-of-experts framework for multi-step prediction of gas load](https://www.sciencedirect.com/science/article/abs/pii/S0360544223017383) | Energy | 2023 | None |
+|DeepUnifiedMoM [DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts](https://arxiv.org/pdf/2406.08742) | Arxiv | 2024.06 | [Code](https://github.com/joelowj/unified_mom_mmoe) |
+|CAD [Beyond sharing: Conflict-aware multivariate time series anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3611643.3613896) | ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering | 2023 | [Code](https://github.com/dawnvince/MTS_CAD) |
 |Fedformer [Fedformer: Frequency enhanced decomposed transformer for long-term series forecasting](https://proceedings.mlr.press/v162/zhou22g/zhou22g.pdf) | ICML | 2022 | [Code](https://github.com/MAZiqing/FEDformer) |
 |TCNet [Temporal chain network with intuitive attention mechanism for long-term series forecasting](https://ieeexplore.ieee.org/abstract/document/10273738) | IEEE TIM | 2023 | None |
-|MoE-Traffic [Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions](https://arxiv.org/pdf/2409.03282) | Arxiv | 2024.09 | None|
+|MambaMoE [From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces](https://link.springer.com/article/10.1007/s10844-025-00971-3) | Journal of Intelligent Information Systems | 225 | None |
+|AME [Attention with Mixture Experts model for Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10929537) | EIECC | 2024 | None |
+|DFMH [Dynamic fusion of multi-source heterogeneous data using MOE mechanism for stock prediction](https://link.springer.com/article/10.1007/s10489-025-06330-7) | Applied Intelligence | 2025 | None |
+|SMETimes [Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs](https://arxiv.org/pdf/2503.03594) | Arxiv | 2025.03 | [Code](https://github.com/xiyan1234567/SMETimes) |
 |MoPE [Mixture of Projection Experts for Multivariate Long-Term Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10903405) | ICMLA | 2024 | None |
 |VE [VE: Modeling Multivariate Time Series Correlation with Variate Embedding](https://ieeexplore.ieee.org/abstract/document/10818803) | ICAMechS | 2024 | [Code](https://github.com/swang-song/VE) |
 |FreqMoE [FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts](https://proceedings.mlr.press/v258/liu25i.html) | ICAIS | 2025 | [Code](https://github.com/sunbus100/FreqMoE-main) |
-|SMETimes [Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs](https://arxiv.org/pdf/2503.03594) | Arxiv | 2025.03 | [Code](https://github.com/xiyan1234567/SMETimes) |
 |WaveTS-M [Wavelet Mixture of Experts for Time Series Forecasting](https://arxiv.org/pdf/2508.08825) | Arxiv | 2025.08 | None |
-|TSEPMoE [Time Series-Based Electric Load Forecasting with Mixture of Expert System](https://ieeexplore.ieee.org/abstract/document/10277743) | ICHCI | 2023 | None |
-|IMMOE [Improved multi-gate mixture-of-experts framework for multi-step prediction of gas load](https://www.sciencedirect.com/science/article/abs/pii/S0360544223017383) | Energy | 2023 | None |
-|MoE-KAN [Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions](https://arxiv.org/pdf/2409.03282) | Arxiv | 2024.09 | None |
-|DeepUnifiedMoM [DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts](https://arxiv.org/pdf/2406.08742) | Arxiv | 2024.06 | [Code](https://github.com/joelowj/unified_mom_mmoe) |
-|DFMH [Dynamic fusion of multi-source heterogeneous data using MOE mechanism for stock prediction](https://link.springer.com/article/10.1007/s10489-025-06330-7) | Applied Intelligence | 2025 | None |
-|MambaMoE [From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces](https://link.springer.com/article/10.1007/s10844-025-00971-3) | Journal of Intelligent Information Systems | 225 | None |
-|CAD [Beyond sharing: Conflict-aware multivariate time series anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3611643.3613896) | ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering | 2023 | [Code](https://github.com/dawnvince/MTS_CAD) |
-|STGCN-MoE [Mixture of Experts based Model Integration for Traffic State Prediction](https://www.ece.nus.edu.sg/stfpage/eletck/papers/ChattoTham-IEEE-VTC-Spring-2022.pdf) | VTC | 2022 | None |
-|AME [Attention with Mixture Experts model for Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10929537) | EIECC | 2024 | None |
 
 - Atention
 
